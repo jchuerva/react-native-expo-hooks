@@ -13,7 +13,7 @@ function AddNote({ navigation }) {
   }
   return (
     <>
-      <Header titleText="Add a new note" />
+      <Header titleText="Add a new article" />
       <IconButton
         icon="close"
         size={25}
